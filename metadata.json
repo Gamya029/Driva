@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Driva - Your AI Co-Passenger",
+  "description": "Driva is a smart co-passenger, powered by AI, that's always by your side to keep you alert, safe, and connected on the road. It uses your device's camera and microphone to detect driver fatigue and initiates conversations to keep you engaged. It also acts as a hands-free personal assistant and includes an emergency safety net.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
